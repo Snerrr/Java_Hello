@@ -1,0 +1,8 @@
+1 - name of model
+2 - minimum quantity inches of screen
+3 - minimum weight of notebook
+4 - minimum quatity of cores
+5 - minimum RAM
+6 - capacity of HDD
+7 - colour
+8 - Show filtered notebook
